@@ -9,3 +9,13 @@ Este es mi espacio personal como desarrollador, donde comparto un poco sobre mí
 - **GitHub** – uso de claves SSH, control de versiones y flujos colaborativos.
 - **HTML & CSS** – conocimientos fundamentales para la creación de interfaces web.
 - **Windows 11** – configuración avanzada del sistema, personalización de la terminal y ajustes de productividad.
+
+## 🚀 Proyectos destacados
+
+Te invito a ver algunos de mis proyectos en GitHub, donde aplico estos conocimientos en distintos desafíos:
+- [Basic Social Media JS](https://github.com/nahuelfalconuy/basic-social-media-js)
+- [WeatherApp](https://github.com/nahuelfalconuy/weatherApp)
+- [Login Básico JS](https://github.com/nahuelfalconuy/login-basico-js)
+
+
+
